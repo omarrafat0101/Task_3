@@ -1,0 +1,42 @@
+body{
+    margin:0%;
+    height: 85vh;
+    background: linear-gradient(-45deg , rgb(183, 0, 255),rgb(116, 53, 233),rgb(130, 173, 238), rgb(15, 149, 238));
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width:350px;
+    padding:30px;
+    margin:auto;
+    margin-top: 230px;
+    margin-bottom: 0;
+    font-weight: bold;
+    border-radius: 5px;
+}
+form h1{
+    text-align: center;
+}
+form input{
+    height:30px;
+    width:100%;
+}
+form a{
+    text-decoration: none;
+    font-size: small;
+    color: rgb(0, 140, 255);
+}
+#login{
+    text-align: center;
+    color:white;
+    border:none;
+    height: 34px;
+    background: linear-gradient(-45deg , rgb(183, 0, 255),rgb(116, 53, 233),rgb(130, 173, 238), rgb(15, 149, 238));
+}
+form p{
+    text-align: center;
+    font-size: small;
+}
+form label{
+    font-size: smaller;
+}
